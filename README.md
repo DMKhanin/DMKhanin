@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Dmitriy Khanin
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning swift
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me: [E-mail](mailto:dmkhaninyt@gmail.com), [LinkedIn](https://www.linkedin.com/in/dmkhanin/) , [Facebook](https://www.facebook.com/profile.php?id=100013591514814), [Website](https://dmkhanin.ru)
 
